@@ -140,6 +140,13 @@
     padding: 15px;
   }
 
+.gallery-head{
+    margin-top: 13px;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+  }
+
   .wallpaper {
     position: relative;
     overflow: hidden;
